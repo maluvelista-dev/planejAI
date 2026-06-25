@@ -1,0 +1,4 @@
+# Root-level npm artifacts. The app package lives in /educador.
+/node_modules/
+/package.json
+/package-lock.json
